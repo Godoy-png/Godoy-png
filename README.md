@@ -17,7 +17,7 @@
    </a>
 </p>
 
-<h3 align="center">Contact</h3>
+<h2 align="center">Contact</h2>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/gabriel-godoy-419791242/" target="_blank" title="My likedin">
