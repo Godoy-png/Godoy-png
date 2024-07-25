@@ -10,12 +10,16 @@
 
 <p align="center">
    <a href="https://desecsecurity.com/valida-certificado/EJPJ-EOUMT-WMOK" target="_blank" title="My Cert">
-      <img src="https://github.com/user-attachments/assets/a4791ad2-c5ff-4bd2-869a-750d62604b46" height="100" width="100" style="margin-right: 100px">     
+      <img src="https://github.com/user-attachments/assets/a4791ad2-c5ff-4bd2-869a-750d62604b46" height="100" width="100">     
    </a>
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   
    <a href="https://certs.ibsec.com.br/?cert_hash=e830c0d4c93ce750" target="_blank" title="My Cert2">
       <img src="https://github.com/user-attachments/assets/2a1b2e75-85e1-42c0-b830-ab3df8aa8508" height="100" width="100">
    </a>
 </p>
+
 
 <h3 align="center">Contact</h3>
 
