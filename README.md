@@ -15,7 +15,13 @@
    <a href="https://certs.ibsec.com.br/?cert_hash=e830c0d4c93ce750" target="_blank" title="My Cert2">
       <img src="https://github.com/user-attachments/assets/2a1b2e75-85e1-42c0-b830-ab3df8aa8508" height="100" width="100">
    </a>
+   &nbsp; 
+   <a href="https://www.credly.com/badges/eb4a7d30-8863-42e0-a13b-f785504e2c27" target="_blank" title="My Cert3">
+      <img src="https://github.com/user-attachments/assets/6a5a3fe8-7c78-434e-b058-ee6162768206" height="100" width="100">
+   </a>
 </p>
+
+https://github.com/user-attachments/assets/6a5a3fe8-7c78-434e-b058-ee6162768206
 
 <h2 align="center">Contact</h2>
 
