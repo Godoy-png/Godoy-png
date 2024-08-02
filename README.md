@@ -21,8 +21,6 @@
    </a>
 </p>
 
-https://github.com/user-attachments/assets/6a5a3fe8-7c78-434e-b058-ee6162768206
-
 <h2 align="center">Contact</h2>
 
 <p align="center">
